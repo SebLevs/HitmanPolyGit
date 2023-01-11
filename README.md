@@ -3,7 +3,7 @@
  Visual assets are licensed for their first hand buyer only. <br/>
  
 Credits<br/>
-Ludwell (Sébastien Lévesque)<br/>
+Ludwell/SebLevs (Sébastien Lévesque)<br/>
     UI<br/>
     Sound<br/>
     Interactable objects<br/>
