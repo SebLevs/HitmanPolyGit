@@ -18,7 +18,7 @@ PowerKey (Marc-Antoine Giguère)<br/>
     Gameplay, Game-feel and Game-Loop<br/>
     Quest system<br/>
     Lighting<br/>
-
+<br/><br/>
 3D assets<br/>
     Polygon packs from Synty Store<br/>
 <br/><br/>
